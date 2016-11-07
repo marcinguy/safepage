@@ -1,4 +1,4 @@
-# Safepage - check URL against Safe Browsing API v4
+# Safepage - Check Top 1 Million URLs against Safe Browsing API v4
 
 Check URL(s) against Safe Browsing API.
 
@@ -15,12 +15,13 @@ Safe Browsing API Go Client - https://github.com/google/safebrowsing
 
 ## Installation
 
-Everything is in the repo , so just drop the files to where you want to use it.
+Everything is in the repo, so just drop the files to where you want to use it.
 
 ## Usage
 
 ```
 check.py - checks Top 1 Million Alexa sites as of 7/11/2016
+load.py - shows count of Malware sites
 
 ```
 
