@@ -1,3 +1,8 @@
+#!/usr/bin/python
+""" Check Top 1 Million Alexa websites against Malware  """
+__author__ = "Marcin Kozlowski <marcinguy@gmail.com>"
+
+
 import requests
 import json
 import csv

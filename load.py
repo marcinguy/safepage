@@ -1,3 +1,7 @@
+#!/usr/bin/python
+""" Count malware sites  """
+__author__ = "Marcin Kozlowski <marcinguy@gmail.com>"
+
 import pprint
 import numpy as np
 
