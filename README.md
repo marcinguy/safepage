@@ -1,10 +1,10 @@
-# Safepage - Check Top 1 Million URLs against Safe Browsing API v4
+# Safepage - Check Top 1 Million Alexa URLs against Safe Browsing API v4
 
-Check URL(s) against Safe Browsing API.
+Check 1 Million URL(s) against Safe Browsing API.
 
 ## Description
 
-Want to know if a website is secure to visit? Check URL(s) against Safe Browsing API.
+Want to know if a website is secure to visit? Check URL(s) against Safe Browsing API. Here Top 1 Million Alexa wesbite is checked. Should run in around few minutes (ca. 3 mins)
 
 ## Dependencies
 
