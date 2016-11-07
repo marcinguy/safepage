@@ -4,7 +4,7 @@ Check 1 Million URL(s) against Safe Browsing API.
 
 ## Description
 
-Check Top 1 Million ALexa URL(s) against Safe Browsing API. Should run in around few minutes (ca. 3 mins)
+Check Top 1 Million Alexa URL(s) against Safe Browsing API. Should run in around few minutes (ca. 3 mins)
 
 ## Dependencies
 
