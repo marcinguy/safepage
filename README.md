@@ -33,7 +33,7 @@ Repository is at: https://gitlab.com/marcinguy/safepage
 
 (C) 2016 Marcin Kozlowski <marcinguy@gmail.com>
 
-pscanner is licensed under the terms of the MIT License.
+safepage is licensed under the terms of the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
