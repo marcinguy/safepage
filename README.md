@@ -4,13 +4,15 @@ Check 1 Million URL(s) against Safe Browsing API.
 
 ## Description
 
-Want to know if a website is secure to visit? Check URL(s) against Safe Browsing API. Here Top 1 Million Alexa wesbite is checked. Should run in around few minutes (ca. 3 mins)
+Check Top 1 Million ALexa URL(s) against Safe Browsing API. Should run in around few minutes (ca. 3 mins)
 
 ## Dependencies
 
-Other standard modules (import clause)
 
 Safe Browsing API Go Client - https://github.com/google/safebrowsing
+
+
+Other standard modules (import clause)
 
 
 ## Installation
@@ -22,7 +24,6 @@ Everything is in the repo, so just drop the files to where you want to use it.
 ```
 check.py - checks Top 1 Million Alexa sites as of 7/11/2016
 load.py - shows count of Malware sites
-
 ```
 
 ## Website
