@@ -10,6 +10,8 @@ Want to know if a website is secure to visit? Check URL(s) against Safe Browsing
 
 Other standard modules (import clause)
 
+Safe Browsing API Go Client - https://github.com/google/safebrowsing
+
 
 ## Installation
 
