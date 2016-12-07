@@ -18,3 +18,11 @@ for key in read_dictionary:
 malware=len(my_list)
 
 print("Malware count:"+str(malware))
+
+file = open("results.txt","w")
+
+for item in my_list:
+  file.write(item+"\n")
+
+file.close()
+
