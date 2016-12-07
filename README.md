@@ -1,27 +1,29 @@
-# Safepage - check URL against Safe Browsing API v4
+# Safepage - Check Top 1 Million Alexa URLs against Safe Browsing API v4
 
-Check URL(s) against Safe Browsing API.
+Check 1 Million URL(s) against Safe Browsing API.
 
 ## Description
 
-Want to know if a website is secure to visit? Check URL(s) against Safe Browsing API.
+Check Top 1 Million Alexa URL(s) against Safe Browsing API. Should run in around few minutes (ca. 3 mins)
 
 ## Dependencies
 
-Other standard modules (import clause)
 
 Safe Browsing API Go Client - https://github.com/google/safebrowsing
 
 
+Other standard modules (import clause)
+
+
 ## Installation
 
-Everything is in the repo , so just drop the files to where you want to use it.
+Everything is in the repo, so just drop the files to where you want to use it.
 
 ## Usage
 
 ```
 check.py - checks Top 1 Million Alexa sites as of 7/11/2016
-
+load.py - shows count of Malware sites
 ```
 
 ## Website
@@ -32,7 +34,7 @@ Repository is at: https://gitlab.com/marcinguy/safepage
 
 (C) 2016 Marcin Kozlowski <marcinguy@gmail.com>
 
-pscanner is licensed under the terms of the MIT License.
+safepage is licensed under the terms of the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
