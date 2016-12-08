@@ -46,8 +46,12 @@ def sendoff():
     r = requests.post("http://localhost:8080/v4/threatMatches:find", data=json.dumps(data1), headers=headers1)
     #print r.status_code
     jsonstr = r.content
-    result.append(json.loads(jsonstr))
-
+    try:
+      result.append(json.loads(jsonstr))
+    except ValueError:
+      sleep(10);
+    else:
+      pass
 i=0
 j=0
 with open('top-1m.csv', 'rb') as f:
